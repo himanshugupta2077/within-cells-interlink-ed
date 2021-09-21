@@ -1,10 +1,9 @@
-- Hi, I’m zexceed
-- I’m interested in cyber security and programming
-- I’m currently learning networking and working on some py projects
-- I’m not looking to collaborate for now
-- How to reach me guptah02@pm.me
+### Hi there!
 
-<!---
-zexceed012/zexceed012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# I'm Himanshu!
+
+Thanks for visiting my Github profile.
+
+- I’m a Cyber Security enthusiast intrested in IT Security, Networking & Programming. 
+- I’m currently learning networking and improving my skills in Python.
+- How to reach me, E-mail: guptah02@pm.me
